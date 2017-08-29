@@ -1,0 +1,2 @@
+# Tourist-Blog
+Our proposed project is an Tourist Blog that provides an effective solution for users to plan, manage and schedule their tour according to their requirements and demands. Often people get confused while planning for a tour. First of all they hardly know places where they can spend a good time. Further there comes money constraint. This system solves all problems of the client by providing them different packages and facility to personalize their tour.
